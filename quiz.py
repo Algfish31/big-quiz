@@ -90,4 +90,4 @@ q5 = ["Where are the pyramids?",
       "India", "Egypt", "Morocco", "Canada", 2]
       
 questions = [q1, q2, q3, q4, q5]
-question = questions.pop (0)
+question = questions.pop(0)
